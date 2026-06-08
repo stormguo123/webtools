@@ -1,0 +1,7 @@
+/api/ip/v4-icanhaz  https://ipv4.icanhazip.com              200
+/api/ip/v6-icanhaz  https://ipv6.icanhazip.com              200
+/api/ip/oray        https://ddns.oray.com/checkip           200
+/api/ip/v4          https://api.ipify.org?format=json       200
+/api/ip/v4-cn       https://4.ipw.cn                        200
+/api/ip/v6          https://api64.ipify.org?format=json     200
+/*               /index.html                             200
