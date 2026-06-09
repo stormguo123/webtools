@@ -1,1 +1,0 @@
-import{W as r,T as l,X as u,Y as v}from"./index-Y6Od9bea.js";const c=r("favorites",()=>{const e=l(u().toolIds);function o(){v({toolIds:e.value})}function a(s){const t=e.value.indexOf(s);t>=0?e.value.splice(t,1):e.value.unshift(s),o()}function i(s){return e.value.includes(s)}function n(s){e.value=[...s],o()}return{toolIds:e,toggle:a,isFavorite:i,replaceAll:n}});export{c as u};
